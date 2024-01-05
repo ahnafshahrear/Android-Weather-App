@@ -1,7 +1,7 @@
 ## Android Weather App
 - **[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear)**
 - **Computer Science & Engineering, University of Rajshahi**
-- **This was a project of Software Development Lab 3, Computer Science & Engineering, University of Rajshahi**
+- **This is a project of Software Development Lab 3, Computer Science & Engineering, University of Rajshahi**
 
   
 ### Tools
