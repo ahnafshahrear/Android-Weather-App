@@ -1,12 +1,13 @@
-# ascorp_weather
+## Android Weather App
+- **[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear)**
+- **Computer Science & Engineering, University of Rajshahi**
+- **Description -**
 
-Flutter Weather App for Android. Assignment of Software Development Lab 3.
+  
+### Tools
+- **[Android Studio](https://developer.android.com/studio)**
+- **[Flutter](https://flutter.dev/)**
+- **[Open Weather API]([https://flutter.dev/](https://openweathermap.org/api))**
 
-## Tools
-
-- [Android Studio](https://developer.android.com/studio)
-- [Flutter](https://flutter.dev/)
-
-## App Screenshots
-![](Screesshot1.png)
-![](Screenshot2.png)
+### App Preview
+![](App_Preview.png)
