@@ -7,7 +7,7 @@
 ### Tools
 - **[Android Studio](https://developer.android.com/studio)**
 - **[Flutter](https://flutter.dev/)**
-- **[Open Weather API](https://flutter.dev/](https://openweathermap.org/api)**
+- **[Open Weather API](https://openweathermap.org/api)**
 
 
 ### App Preview
