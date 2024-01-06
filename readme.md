@@ -5,9 +5,10 @@
 
   
 ### Tools
-- **[Android Studio](https://developer.android.com/studio)**
-- **[Flutter](https://flutter.dev/)**
-- **[Open Weather API](https://openweathermap.org/api)**
+- **Framework - [Flutter](https://flutter.dev/)**
+- **Language - [Dart](https://dart.dev/)**
+- **Weather API - [OpenWeather](https://openweathermap.org/api)**
+- **IDE - [Android Studio](https://developer.android.com/studio)**
 
 
 ### App Preview
